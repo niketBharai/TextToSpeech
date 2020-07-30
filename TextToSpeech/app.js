@@ -52,6 +52,9 @@ const speak = () => {
             if (voice.name === SelectedVoice) {
                 speakText.voice = voice;
             }
+            
+            
+    
         });
 
 
@@ -68,3 +71,15 @@ textForm.addEventListener('submit', e => {
 });
 
 rate.addEventListener('change', e => (rateValue.textContent = rate.value)); 
+
+
+
+
+
+console.log("Niket Bharai");
+             console.log("");
+             console.log("");
+             console.log("");
+             console.log("");
+             console.log("");
+             console.log("");
